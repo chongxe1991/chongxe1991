@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stock Analysis and Prediction](https://github.com/chongxe1991/stock_prediction)
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Hadoop**
 
 - 📫 How to reach me **chongxe1991@gmail.com**
 
