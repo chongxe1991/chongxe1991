@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xin Er</h1>
 <h3 align="center">An aspiring Data Analyst from Singapore</h3>
 
-- 🔭 I’m currently working on [Olist ecommerce Platform Data Exploration and Analysis](https://github.com/chongxe1991/olist_data_analysis)
+- 🔭 I’m currently working on [Stock Analysis and Prediction](https://github.com/chongxe1991/stock_prediction)
 
 - 🌱 I’m currently learning **Tableau**
 
