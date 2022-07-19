@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stock Analysis and Prediction](https://github.com/chongxe1991/stock_prediction)
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **DP-900: Microsoft Azure Data Fundamentals**
 
 - 📫 How to reach me **chongxe1991@gmail.com**
 
