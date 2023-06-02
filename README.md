@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xin Er</h1>
-<h3 align="center">An aspiring Data Analyst from Singapore</h3>
+<h3 align="center">A Data Engineer from Singapore</h3>
 
 - 🔭 I’m currently working on [Stock Analysis and Prediction](https://github.com/chongxe1991/stock_prediction)
 
-- 🌱 I’m currently learning **DP-900: Microsoft Azure Data Fundamentals**
+- 🌱 I’m currently taking **Financial Modelling and Valuation Analyst Certification**
 
 - 📫 How to reach me **chongxe1991@gmail.com**
 
